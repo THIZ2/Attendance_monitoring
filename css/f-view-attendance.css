@@ -1,0 +1,33 @@
+*
+{
+    margin:0px;
+    padding:0px;
+   
+}
+.container .col-lg-12 h1
+{
+    padding-left:25%;
+    color:#001a33;
+    font-weight: bold;
+    margin-top: -2%;
+}
+.container form input
+{
+   
+    left:50%;
+     background:red;
+     width: 15%;
+     height: 40px;
+     color: #fff;
+     font-size: 20px;
+     border-radius: 7px;
+    border:0px;
+     cursor: pointer;
+    
+    margin-left:55%;
+}
+.table
+{
+    margin-left: 15%;
+    
+}

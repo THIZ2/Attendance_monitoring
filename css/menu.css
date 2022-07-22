@@ -1,0 +1,77 @@
+@charset "utf-8";
+/* CSS Document */
+ *
+           {
+               margin:0px;
+               padding:0px;
+               
+           }
+       
+
+           .menu ul
+           {
+               list-style: none;/* to remove bullets*/
+           }
+           
+
+          .menu ul li a
+           {
+               padding:5px 5px;
+               color:chartreuse;
+               text-decoration: none;
+               text-transform: uppercase;
+                font-size: 90%;
+                font-weight: 100;
+               
+           }
+           
+
+           .menu ul li a:hover
+           {
+              border-bottom: 2px solid blue;
+           }
+
+          
+           .menu ul li
+           {
+                display: inline-block;
+                list-style: none;
+                margin-left: 20px;
+                margin-top:25px;
+                position:relative;
+                float:left;
+           }
+
+
+           .menu ul ul li a
+           {
+             color:aqua;
+           }
+
+
+         .menu ul ul li 
+           {
+             margin-left: 5px;
+           }
+
+          
+           .menu ul ul
+           {
+               
+			   display:none;
+               position:absolute;
+           }
+           .menu ul li:hover ul
+           {
+               display: block;
+           }
+          
+        
+      
+		  
+		  .fa
+             {
+                color:#fff;
+             }
+
+ 

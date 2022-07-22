@@ -1,0 +1,31 @@
+*
+{
+    margin:0px;
+    padding:0px;
+   
+}
+.dashboard
+{
+    margin-top:-5%;
+}
+.container .col-lg-12 h1
+{
+    padding-left:25%;
+    color:#001a33;
+    font-weight: bold;
+    margin-top: 7%;
+}
+.table
+{
+    margin-left: 15%;
+    
+}
+.container .col-lg-12 h3
+{
+    margin-left:8%;
+}
+.container .col-lg-12 h4
+{
+ margin-left:8%;
+
+}
